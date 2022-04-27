@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter halim</h1>
 <h3 align="center">I am a Software engineer and interested in web development</h3>
 
-- 🌱 I’m currently learning **React.js Redux**
+- 🌱 I’m currently learning **React.js & Redux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
