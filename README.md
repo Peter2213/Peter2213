@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter2213&label=Profile%20views&color=0e75b6&style=flat" alt="peter2213" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **ASP.NET, React, Vue.js, C#, C++**
+- 💬 Ask me about **Django, javascript, C++. Python, React, Vue.js**
 
 - 📫 How to reach me **peterhalim50@gmail.com**
 
