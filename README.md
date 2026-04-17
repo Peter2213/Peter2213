@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peter2213&label=Profile%20views&color=0e75b6&style=flat" alt="peter2213" /> </p>
 
-- 🌱 I’m currently learning **Spring framework**
+- 🌱 I’m currently using **Spring framework**
 
-- 💬 Ask me about **Django, javascript, C++. Python, React, Vue.js**
+- 💬 Ask me about **Spring boot,Django, javascript, C++. Python, React, Vue.js**
 
 - 📫 How to reach me **peterhalim50@gmail.com**
 
